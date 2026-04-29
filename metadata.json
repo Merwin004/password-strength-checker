@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Checker",
+  "description": "A clean utility that validates passwords against a set of constraints in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
